@@ -2,8 +2,6 @@
 
 A Covid-19 Dashboard built with [Vue](https://v3.vuejs.org/), [Tailwind](https://tailwindcss.com/) and [Chart.js](https://www.chartjs.org/).
 
-<br/>
-
 ## Live Demo
 
 - [here](/)
