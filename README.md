@@ -4,11 +4,11 @@ A Covid-19 Dashboard built with [Vue](https://v3.vuejs.org/), [Tailwind](https:/
 
 ## Live Demo
 
-- [here](/)
+- [here](https://vue-covid-dashboard.netlify.app/)
 
 ### Contribution & Issues
 
-If you want to contribute to this project you can contact me on Discord (Sync#9069) or if you are facing any issues, you can just open a new one [here](/)
+If you want to contribute to this project you can contact me on Discord (Sync#9069) or if you are facing any issues, you can just open a new one [here](https://github.com/Sync-Codes/Vue-Covid-Dashboard/issues/new)
 
 ### Support
 
